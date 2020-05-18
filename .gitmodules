@@ -1,0 +1,3 @@
+[submodule "pd/patches/organelle"]
+	path = pd/patches/organelle
+	url = https://github.com/critterandguitari/Organelle_Patches
